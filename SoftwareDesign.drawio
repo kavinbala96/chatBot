@@ -32,64 +32,66 @@
         </mxCell>
         <mxCell id="kAaH0KCrfFGJaVt4GoiI-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="kAaH0KCrfFGJaVt4GoiI-6" target="kAaH0KCrfFGJaVt4GoiI-9">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="90" y="330" as="targetPoint" />
+            <mxPoint x="140" y="520" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="kAaH0KCrfFGJaVt4GoiI-6" value="&lt;div align=&quot;left&quot;&gt;Voice Input&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;(Continuous Listening)&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-90" y="220" width="140" height="70" as="geometry" />
+          <mxGeometry x="-40" y="410" width="140" height="70" as="geometry" />
         </mxCell>
         <mxCell id="YT0dLR-asU4ncFv9Hsvm-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="kAaH0KCrfFGJaVt4GoiI-9" target="YT0dLR-asU4ncFv9Hsvm-7">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="100" y="240" as="targetPoint" />
+            <mxPoint x="150" y="430" as="targetPoint" />
           </mxGeometry>
-        </mxCell>
-        <mxCell id="YT0dLR-asU4ncFv9Hsvm-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="kAaH0KCrfFGJaVt4GoiI-9" target="YT0dLR-asU4ncFv9Hsvm-10">
-          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="YT0dLR-asU4ncFv9Hsvm-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="kAaH0KCrfFGJaVt4GoiI-9" target="YT0dLR-asU4ncFv9Hsvm-12">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="YT0dLR-asU4ncFv9Hsvm-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="kAaH0KCrfFGJaVt4GoiI-9" target="YT0dLR-asU4ncFv9Hsvm-29">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="150" y="530" as="targetPoint" />
+            <mxPoint x="200" y="720" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="151" y="445" />
-              <mxPoint x="151" y="550" />
+              <mxPoint x="201" y="635" />
+              <mxPoint x="201" y="740" />
             </Array>
           </mxGeometry>
         </mxCell>
+        <mxCell id="YT0dLR-asU4ncFv9Hsvm-33" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="kAaH0KCrfFGJaVt4GoiI-9" target="YT0dLR-asU4ncFv9Hsvm-32">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="170" y="640" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="kAaH0KCrfFGJaVt4GoiI-9" value="LLM" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-110" y="420" width="180" height="50" as="geometry" />
+          <mxGeometry x="-60" y="610" width="180" height="50" as="geometry" />
         </mxCell>
         <mxCell id="YT0dLR-asU4ncFv9Hsvm-7" value="&lt;div&gt;Music LLM/ API&lt;/div&gt;&lt;div&gt;Parse Out Song/Author&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="230" y="225" width="230" height="75" as="geometry" />
+          <mxGeometry x="280" y="415" width="230" height="75" as="geometry" />
         </mxCell>
         <mxCell id="YT0dLR-asU4ncFv9Hsvm-10" value="web search API/Model" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="230" y="320" width="230" height="75" as="geometry" />
+          <mxGeometry x="280" y="510" width="230" height="75" as="geometry" />
         </mxCell>
         <mxCell id="YT0dLR-asU4ncFv9Hsvm-12" value="Command API" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="230" y="405" width="230" height="80" as="geometry" />
+          <mxGeometry x="280" y="595" width="230" height="80" as="geometry" />
         </mxCell>
         <mxCell id="YT0dLR-asU4ncFv9Hsvm-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="YT0dLR-asU4ncFv9Hsvm-18" target="kAaH0KCrfFGJaVt4GoiI-9">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="YT0dLR-asU4ncFv9Hsvm-18" value="Context API" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-260" y="225" width="150" height="65" as="geometry" />
+          <mxGeometry x="-210" y="415" width="150" height="65" as="geometry" />
         </mxCell>
         <mxCell id="YT0dLR-asU4ncFv9Hsvm-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="YT0dLR-asU4ncFv9Hsvm-21" target="kAaH0KCrfFGJaVt4GoiI-9">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="YT0dLR-asU4ncFv9Hsvm-21" value="Preferences API" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-450" y="225" width="140" height="65" as="geometry" />
-        </mxCell>
-        <mxCell id="YT0dLR-asU4ncFv9Hsvm-26" value="Back&lt;br&gt;&lt;div&gt; Ground Service&lt;/div&gt;&lt;div&gt;1. Serve as memory&lt;/div&gt;&lt;div&gt;2. Issue Interrupts&lt;/div&gt;&lt;div&gt;3. Control in the bot in general&lt;/div&gt;&lt;div&gt;4.Secrets Manager.&lt;/div&gt;&lt;div&gt;5. &lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="710" y="160" width="120" height="500" as="geometry" />
+          <mxGeometry x="-400" y="415" width="140" height="65" as="geometry" />
         </mxCell>
         <mxCell id="YT0dLR-asU4ncFv9Hsvm-29" value="Reservation&amp;nbsp; API/Model" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="230" y="510" width="230" height="80" as="geometry" />
+          <mxGeometry x="280" y="700" width="230" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="YT0dLR-asU4ncFv9Hsvm-32" value="Reservation&amp;nbsp; API/Model" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="230" y="620" width="230" height="80" as="geometry" />
+        <mxCell id="YT0dLR-asU4ncFv9Hsvm-32" value="Home Device API/ Model" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="280" y="810" width="230" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="YT0dLR-asU4ncFv9Hsvm-37" value="Back Ground Service: 1. Memory 2. Secrets Manager 3. Interrupts. 4. Orchestration. 5. Hardware Controls. 6. Bus" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-390" y="150" width="1370" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
