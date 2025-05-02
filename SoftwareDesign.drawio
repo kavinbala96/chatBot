@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:128.0) Gecko/20100101 Firefox/128.0" version="26.2.14">
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:128.0) Gecko/20100101 Firefox/128.0" version="26.2.14" pages="2">
   <diagram name="Page-1" id="r0A6iMBt1BOsE10QpPoQ">
     <mxGraphModel dx="1298" dy="718" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -18,6 +18,34 @@
         </mxCell>
         <mxCell id="f5Fb-B132QA73vn-KKB--14" value="&lt;div align=&quot;left&quot;&gt;Product Website&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;1. Saas / Payment Service Shipping.&lt;br&gt;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;2. Saas / Login (ii)&lt;br&gt;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;3. App link to android/ios (I)&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;4. About Section&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;5. Contact Us&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;6.Tutorial/ Help&lt;br&gt;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;&lt;br&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;align=left;" parent="1" vertex="1">
           <mxGeometry x="310" y="550" width="150" height="340" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="5JArz2W_mzI5TbRY1RSU" name="Page-2">
+    <mxGraphModel dx="3218" dy="718" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1920" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="AQdDg-uSf-0YIj_bj16p-1" value="&lt;b&gt;Software Architecture&lt;br&gt;&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="360" y="10" width="200" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="kAaH0KCrfFGJaVt4GoiI-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="kAaH0KCrfFGJaVt4GoiI-6" target="kAaH0KCrfFGJaVt4GoiI-9">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="90" y="200" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="YT0dLR-asU4ncFv9Hsvm-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="kAaH0KCrfFGJaVt4GoiI-6" target="YT0dLR-asU4ncFv9Hsvm-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="kAaH0KCrfFGJaVt4GoiI-6" value="&lt;div align=&quot;left&quot;&gt;Voice Input&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;(Continuous Listening)&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-90" y="90" width="140" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="kAaH0KCrfFGJaVt4GoiI-9" value="Classifier (Distill-Bert)" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-110" y="290" width="180" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="YT0dLR-asU4ncFv9Hsvm-2" value="Model A" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="160" y="100" width="180" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
