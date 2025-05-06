@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:128.0) Gecko/20100101 Firefox/128.0" version="26.2.14" pages="2">
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:128.0) Gecko/20100101 Firefox/128.0" version="26.2.14" pages="4">
   <diagram name="Page-1" id="r0A6iMBt1BOsE10QpPoQ">
-    <mxGraphModel dx="1298" dy="718" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="763" dy="1557" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -19,34 +19,37 @@
         <mxCell id="f5Fb-B132QA73vn-KKB--14" value="&lt;div align=&quot;left&quot;&gt;Product Website&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;1. Saas / Payment Service Shipping.&lt;br&gt;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;2. Saas / Login (ii)&lt;br&gt;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;3. App link to android/ios (I)&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;4. About Section&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;5. Contact Us&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;6.Tutorial/ Help&lt;br&gt;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;&lt;br&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;align=left;" parent="1" vertex="1">
           <mxGeometry x="310" y="550" width="150" height="340" as="geometry" />
         </mxCell>
+        <mxCell id="hjFcMdZKHHure9ER_ydG-1" value="&lt;div&gt;Initial Setup &amp;amp; Tools needed &amp;amp; action items&lt;br&gt;&lt;/div&gt;&lt;div&gt;1. Research on Real Time Speech To Text Model&lt;/div&gt;&lt;div&gt;2. Speech to Text Optimization Low Latency&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;3. Classifier / LLM Model after S2T&lt;/div&gt;&lt;div&gt;4. Build Context (Local Service BUS)&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="370" y="30" width="340" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
   <diagram id="5JArz2W_mzI5TbRY1RSU" name="Page-2">
-    <mxGraphModel dx="3218" dy="718" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1920" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="2998" dy="703" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1920" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="AQdDg-uSf-0YIj_bj16p-1" value="&lt;b&gt;Software Architecture&lt;br&gt;&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="AQdDg-uSf-0YIj_bj16p-1" value="&lt;b&gt;Software Architecture&lt;br&gt;&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="320" y="10" width="200" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="kAaH0KCrfFGJaVt4GoiI-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="kAaH0KCrfFGJaVt4GoiI-6" target="kAaH0KCrfFGJaVt4GoiI-9">
+        <mxCell id="kAaH0KCrfFGJaVt4GoiI-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="kAaH0KCrfFGJaVt4GoiI-6" target="kAaH0KCrfFGJaVt4GoiI-9" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="140" y="520" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="kAaH0KCrfFGJaVt4GoiI-6" value="&lt;div align=&quot;left&quot;&gt;Voice Input&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;(Continuous Listening)&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="kAaH0KCrfFGJaVt4GoiI-6" value="&lt;div align=&quot;left&quot;&gt;Voice Input&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;(Continuous Listening)&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-40" y="410" width="140" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="YT0dLR-asU4ncFv9Hsvm-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="kAaH0KCrfFGJaVt4GoiI-9" target="YT0dLR-asU4ncFv9Hsvm-7">
+        <mxCell id="YT0dLR-asU4ncFv9Hsvm-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="kAaH0KCrfFGJaVt4GoiI-9" target="YT0dLR-asU4ncFv9Hsvm-7" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="150" y="430" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="YT0dLR-asU4ncFv9Hsvm-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="kAaH0KCrfFGJaVt4GoiI-9" target="YT0dLR-asU4ncFv9Hsvm-12">
+        <mxCell id="YT0dLR-asU4ncFv9Hsvm-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="kAaH0KCrfFGJaVt4GoiI-9" target="YT0dLR-asU4ncFv9Hsvm-12" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="YT0dLR-asU4ncFv9Hsvm-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="kAaH0KCrfFGJaVt4GoiI-9" target="YT0dLR-asU4ncFv9Hsvm-29">
+        <mxCell id="YT0dLR-asU4ncFv9Hsvm-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="kAaH0KCrfFGJaVt4GoiI-9" target="YT0dLR-asU4ncFv9Hsvm-29" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="200" y="720" as="targetPoint" />
             <Array as="points">
@@ -55,44 +58,60 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="YT0dLR-asU4ncFv9Hsvm-33" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="kAaH0KCrfFGJaVt4GoiI-9" target="YT0dLR-asU4ncFv9Hsvm-32">
+        <mxCell id="YT0dLR-asU4ncFv9Hsvm-33" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="kAaH0KCrfFGJaVt4GoiI-9" target="YT0dLR-asU4ncFv9Hsvm-32" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="170" y="640" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="kAaH0KCrfFGJaVt4GoiI-9" value="LLM" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="kAaH0KCrfFGJaVt4GoiI-9" value="LLM" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-60" y="610" width="180" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="YT0dLR-asU4ncFv9Hsvm-7" value="&lt;div&gt;Music LLM/ API&lt;/div&gt;&lt;div&gt;Parse Out Song/Author&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="YT0dLR-asU4ncFv9Hsvm-7" value="&lt;div&gt;Music LLM/ API&lt;/div&gt;&lt;div&gt;Parse Out Song/Author&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="280" y="415" width="230" height="75" as="geometry" />
         </mxCell>
-        <mxCell id="YT0dLR-asU4ncFv9Hsvm-10" value="web search API/Model" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="YT0dLR-asU4ncFv9Hsvm-10" value="web search API/Model" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="280" y="510" width="230" height="75" as="geometry" />
         </mxCell>
-        <mxCell id="YT0dLR-asU4ncFv9Hsvm-12" value="Command API" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="YT0dLR-asU4ncFv9Hsvm-12" value="Command API" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="280" y="595" width="230" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="YT0dLR-asU4ncFv9Hsvm-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="YT0dLR-asU4ncFv9Hsvm-18" target="kAaH0KCrfFGJaVt4GoiI-9">
+        <mxCell id="YT0dLR-asU4ncFv9Hsvm-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="YT0dLR-asU4ncFv9Hsvm-18" target="kAaH0KCrfFGJaVt4GoiI-9" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="YT0dLR-asU4ncFv9Hsvm-18" value="Context API" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="YT0dLR-asU4ncFv9Hsvm-18" value="Context API" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-210" y="415" width="150" height="65" as="geometry" />
         </mxCell>
-        <mxCell id="YT0dLR-asU4ncFv9Hsvm-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="YT0dLR-asU4ncFv9Hsvm-21" target="kAaH0KCrfFGJaVt4GoiI-9">
+        <mxCell id="YT0dLR-asU4ncFv9Hsvm-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="YT0dLR-asU4ncFv9Hsvm-21" target="kAaH0KCrfFGJaVt4GoiI-9" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="YT0dLR-asU4ncFv9Hsvm-21" value="Preferences API" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="YT0dLR-asU4ncFv9Hsvm-21" value="Preferences API" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-400" y="415" width="140" height="65" as="geometry" />
         </mxCell>
-        <mxCell id="YT0dLR-asU4ncFv9Hsvm-29" value="Reservation&amp;nbsp; API/Model" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="YT0dLR-asU4ncFv9Hsvm-29" value="Reservation&amp;nbsp; API/Model" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="280" y="700" width="230" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="YT0dLR-asU4ncFv9Hsvm-32" value="Home Device API/ Model" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="YT0dLR-asU4ncFv9Hsvm-32" value="Home Device API/ Model" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="280" y="810" width="230" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="YT0dLR-asU4ncFv9Hsvm-37" value="Back Ground Service: 1. Memory 2. Secrets Manager 3. Interrupts. 4. Orchestration. 5. Hardware Controls. 6. Bus 7. Phone-App Connection. 8. Reset 9. Bot Voice Preference 10. User Voice based Personalization. " style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="YT0dLR-asU4ncFv9Hsvm-37" value="Back Ground Service: 1. Memory 2. Secrets Manager 3. Interrupts. 4. Orchestration. 5. Hardware Controls. 6. Bus 7. Phone-App Connection. 8. Reset 9. Bot Voice Preference 10. User Voice based Personalization. " style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-390" y="150" width="1370" height="60" as="geometry" />
         </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="1dBlajmL5sn8E_IBbHwq" name="Page-3">
+    <mxGraphModel grid="1" page="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" pageScale="1" pageWidth="1920" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="vof2ehoi9LAcILO1IGr7" name="Page-4">
+    <mxGraphModel grid="1" page="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" pageScale="1" pageWidth="1920" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
       </root>
     </mxGraphModel>
   </diagram>
