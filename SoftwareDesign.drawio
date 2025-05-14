@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:128.0) Gecko/20100101 Firefox/128.0" version="26.2.14" pages="4">
   <diagram name="Page-1" id="r0A6iMBt1BOsE10QpPoQ">
-    <mxGraphModel dx="763" dy="1557" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="825" dy="1553" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -19,14 +19,14 @@
         <mxCell id="f5Fb-B132QA73vn-KKB--14" value="&lt;div align=&quot;left&quot;&gt;Product Website&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;1. Saas / Payment Service Shipping.&lt;br&gt;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;2. Saas / Login (ii)&lt;br&gt;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;3. App link to android/ios (I)&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;4. About Section&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;5. Contact Us&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;6.Tutorial/ Help&lt;br&gt;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;&lt;br&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;align=left;" parent="1" vertex="1">
           <mxGeometry x="310" y="550" width="150" height="340" as="geometry" />
         </mxCell>
-        <mxCell id="hjFcMdZKHHure9ER_ydG-1" value="&lt;div&gt;Initial Setup &amp;amp; Tools needed &amp;amp; action items&lt;br&gt;&lt;/div&gt;&lt;div&gt;1. Research on Real Time Speech To Text Model&lt;/div&gt;&lt;div&gt;2. Speech to Text Optimization Low Latency&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;3. Classifier / LLM Model after S2T&lt;/div&gt;&lt;div&gt;4. Build Context (Local Service BUS)&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="hjFcMdZKHHure9ER_ydG-1" value="&lt;div&gt;Initial Setup &amp;amp; Tools needed &amp;amp; action items&lt;br&gt;&lt;/div&gt;&lt;div&gt;1. Research on Real Time Speech To Text Model&lt;/div&gt;&lt;div&gt;2. Speech to Text Optimization Low Latency&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;3. Classifier / LLM Model after S2T&lt;/div&gt;&lt;div&gt;4. Build Context (Local Service BUS)&lt;/div&gt;&lt;div&gt;5. Qemu for simulation in Desktop&lt;/div&gt;&lt;div&gt;6. Whisper.Cpp low latency for S2T&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="370" y="30" width="340" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
   <diagram id="5JArz2W_mzI5TbRY1RSU" name="Page-2">
-    <mxGraphModel dx="2998" dy="703" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1920" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="3322" dy="920" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1920" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -63,7 +63,7 @@
             <mxPoint x="170" y="640" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="kAaH0KCrfFGJaVt4GoiI-9" value="LLM" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="kAaH0KCrfFGJaVt4GoiI-9" value="LLM /MCP" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-60" y="610" width="180" height="50" as="geometry" />
         </mxCell>
         <mxCell id="YT0dLR-asU4ncFv9Hsvm-7" value="&lt;div&gt;Music LLM/ API&lt;/div&gt;&lt;div&gt;Parse Out Song/Author&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
@@ -100,10 +100,13 @@
     </mxGraphModel>
   </diagram>
   <diagram id="1dBlajmL5sn8E_IBbHwq" name="Page-3">
-    <mxGraphModel grid="1" page="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" pageScale="1" pageWidth="1920" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1753" dy="963" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1920" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="YGAd3G2tgDBNGHd0sx32-1" value="TOO" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="600" y="260" width="60" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
